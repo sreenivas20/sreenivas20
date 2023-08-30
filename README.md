@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sreenivas Shenoy v</h1>
+[<h1 align="center">Hi 👋, I'm Sreenivas Shenoy v</h1>
 <h3 align="center">A passionate Flutter developer from Kochi,Kerala,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenivas20&label=Profile%20views&color=0e75b6&style=flat" alt="sreenivas20" /> </p>
@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreenivas20&show_icons=true&locale=en" alt="sreenivas20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreenivas20&" alt="sreenivas20" /></p>
+](https://www.linkedin.com/in/sreenivas-shenoy-v-572712236)https://www.linkedin.com/in/sreenivas-shenoy-v-572712236
